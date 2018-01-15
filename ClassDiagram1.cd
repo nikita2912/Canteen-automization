@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Login.cfp" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABQAAACAAQDCAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>cfp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.CrystalReport1" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>CrystalReport1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.CachedCrystalReport1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrystalReport1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Login.DataSet1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DataSet2" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAwAAAAJABAAAQAAAAAgCQBgAAAAEAAUABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.deletemenu" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAgABQQAgCAQQACEAAYAAAAEGACAAAAAAA=</HashCode>
+      <FileName>deletemenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DisplayStock" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAACAACAQAAwBUgCAAQACABgAAAAQAAQCAgAAAAA=</HashCode>
+      <FileName>DisplayStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form1" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABQAAASACQASEAA4AAAAEGQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form10" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABQAAACAAQBCAAAIAAAAEEAAAACAAAA=</HashCode>
+      <FileName>Form10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form11" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAACAAAI=</HashCode>
+      <FileName>Form11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form12" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABQCAASAAQACEAAoAAAAEEAAAACAAAA=</HashCode>
+      <FileName>Form12.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form13" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABQCAASAAQACEAAoAAAAEEAAAACAAAA=</HashCode>
+      <FileName>Form13.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form14" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAQAACAgABQSAgCAAQACEAAIAAAAEEAAAACAgAI=</HashCode>
+      <FileName>Form14.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form15" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABUAAACACQASMAAIAAAAEEAQAACAAAA=</HashCode>
+      <FileName>Form15.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form16" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAASAAABSAAACAAQBCMAAYAAAAEGAQAACAAAA=</HashCode>
+      <FileName>Form16.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form17" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABSAAACAAQBCMAAYAAAAEGAQAACAAAA=</HashCode>
+      <FileName>Form17.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form18" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAgABQQAgCAAQACEAAYAAAAEGACAACAAAA=</HashCode>
+      <FileName>Form18.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form19" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAgABQQAgCAAQACEAAYAAAAEGACAACAAAA=</HashCode>
+      <FileName>Form19.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form2" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wcFAQKBACCAjYAgFADGwgAAKAAGAGFgWnEAABhQgAAE=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form20" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAgABQQAgCAAQECEAAYAAAAEGACAAAAAAA=</HashCode>
+      <FileName>Form20.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form21" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAUAAACAAQECAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form21.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form22" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form22.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form4" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0AAAAAAAACAgABQSEACAAQACEAAgAAAAEBAAAAAAAAI=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form5" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABQQAACAAQBCMAAIAEAAEEAAAAAAAAA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form6" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAEQAACAgABQSQgCAAQBSEAAIAAAAMEAAAAAAgAI=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form7" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACABABQCAACACQhCIAAIAAAAMEBAAAAAAAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form8" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8SAABE0ACSAAABSSkwSACQhacIAYAIAAMOgXAAAAgAA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form9" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgAAAAACAAABQAAgCAAQACAAgYAAAAIEQCAAAAAAA=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Main" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAAAACAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Menu" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQBASAAABSQAgCAAQACEAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Program" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.todaysmenu" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAgBQCUgCAAQACAAAIAAgQIEQAAAAAAAA=</HashCode>
+      <FileName>todaysmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.todaysmenu1" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEAACAAABQDUgCAAQACAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>todaysmenu1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.wfp" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABQAAACAAQBCAAAIAAAAEEAAAACAAAA=</HashCode>
+      <FileName>wfp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DataSet2TableAdapters.bill_orderTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAEMAAgAAACgAAAAAQAAAAABAw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQBQAAAAAARkAAAAQAGAAAAAIAgCAEAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
